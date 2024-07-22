@@ -8,4 +8,6 @@ A passion for automation, always looking for ways to work smarter not harder for
 
 💬 Ask me about: Compliance, security benchmarks and standards, training and consultancy.
 
-[Linkedin](https://www.linkedin.com/in/mark-bolwell/)
+- [Krameff Solutions Ltd](https://krameff.com)
+- [MindPoint Group](https://www.mindpointgroup.com)
+- [Linkedin](https://www.linkedin.com/in/mark-bolwell/)
