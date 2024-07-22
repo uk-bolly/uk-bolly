@@ -1,9 +1,11 @@
-# Hi
 
-Im a linux sysadmin based in the UK (if you couldn't guess from my name :) ). I have a passion for automation and love generally making life more efficient and easier wherever I can. I love learning new tools and generally getting to understand things and why.
+A linux sysadmin based in the UK. With 20 years experience working for globals MSPs, driving the adoption of automation and efficiencies across the business in order to attain compliance.
+A passion for automation, always looking for ways to work smarter not harder for all.
 
 ## My Stats
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/uk-bolly?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-💬 Ask me about: Standards and benchmarks
+💬 Ask me about: Compliance, security benchmarks and standards, training and consultancy.
+
+[Linkedin](https://www.linkedin.com/in/mark-bolwell/)
